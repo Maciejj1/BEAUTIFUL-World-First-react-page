@@ -1,0 +1,60 @@
+h1 {
+  text-align: center;
+  color: rgb(24, 24, 24);
+  font-family: "Outfit", sans-serif;
+}
+.title {
+  background: rgba(255, 255, 255, 0.5);
+  float: center;
+  padding: 4px;
+}
+body,
+html {
+  padding: 0;
+  background-size: cover;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  background-color: black;
+  background-image: url(wp.jpg);
+  text-align: center;
+}
+img {
+  width: 450px;
+  height: 400px;
+  float: left;
+}
+a {
+  float: right;
+  color: white;
+  font-family: "Outfit", sans-serif;
+  padding: 20px;
+  margin-top: -55px;
+  text-decoration: none;
+  border: 1px solid rgb(77, 77, 77);
+  background-color: grey;
+}
+a:hover {
+  color: rgb(19, 19, 19);
+}
+.artykuł {
+  float: left;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  color: rgb(194, 194, 194);
+  margin-top: 15px;
+}
+h3 {
+  font-family: "Outfit", sans-serif;
+  font-size: 25px;
+  color: azure;
+}
+p {
+  font-family: "Outfit", sans-serif;
+}
+footer {
+  background-color: lavender;
+  float: left;
+  width: 100%;
+  color: rgb(32, 32, 32);
+}
