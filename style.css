@@ -24,18 +24,9 @@ img {
   height: 400px;
   float: left;
 }
-a {
-  float: right;
-  color: white;
-  font-family: "Outfit", sans-serif;
-  padding: 20px;
-  margin-top: -57px;
-  text-decoration: none;
-  border: 1px solid rgb(77, 77, 77);
-  background-color: grey;
-}
+
 a:hover {
-  color: rgb(19, 19, 19);
+  color: rgb(255, 255, 255);
 }
 .artykuł {
   float: left;

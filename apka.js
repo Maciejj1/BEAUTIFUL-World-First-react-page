@@ -1,14 +1,44 @@
 
+
 const header = (
 <div className="title">
 <h1 className="tytuł">BEAUTIFULL WORLD</h1>
-
-
-
-  <div className="linki">
-   <a href={'https://www.linkedin.com/feed/?trk=onboarding-landing'}>linkedin</a>
-   <a href={'https://github.com/Maciejj1'}>GitHub</a>
-  </div>
+<div className="navbar">
+<ul>
+  <li>
+    <a href="#">
+      <span className="icona">
+      <ion-icon name="planet-outline"></ion-icon>
+      </span>
+      <span className="text">Home</span>
+    </a>
+  </li>
+  <li>
+    <a href="#">
+      <span className="icona">
+        <ion-icon name="airplane-outline"></ion-icon>
+      </span>
+      <span className="text">Wonders</span>
+    </a>
+  </li>
+  <li>
+    <a href="#">
+      <span className="icona">
+      <ion-icon name="logo-github"></ion-icon>
+      </span>
+      <span className="text">GitHub</span>
+    </a>
+  </li>
+  <li>
+    <a href="#">
+      <span className="icona">
+      <ion-icon name="logo-linkedin"></ion-icon>
+      </span>
+      <span className="text">Linkedin</span>
+    </a>
+  </li>
+</ul>
+</div>
   </div>
 )
 
@@ -34,9 +64,9 @@ Our parents still remember when there were no televisions, the first ones were b
   Trade, industry and economy also developed. Many new jobs have been created, but unemployment is still high.</p>
         </article>
         </div>
-<>
-{/*<img src={'./logo.jpg'}/> */}
-</>
+<div className="Zdje">
+
+</div>
     </div>
 )
 
